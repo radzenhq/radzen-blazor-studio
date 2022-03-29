@@ -10,16 +10,16 @@ Develop your Blazor application visually with familiar WYSIWYG interface.
 Radzen Blazor Studio download is available for [Windows](https://www.radzen.com/blazor-studio/download/#windows), [macOS](https://www.radzen.com/blazor-studio/download/#macOS) and [Ubuntu Linux](https://www.radzen.com/blazor-studio/download/#linux).
 
 ## Install on Windows
-1. Download the [latest Radzen version for Windows](https://www.radzen.com/blazor-studio/download/#windows).
+1. Download the [latest Radzen Blazor Studio version for Windows](https://www.radzen.com/blazor-studio/download/#windows).
 1. Double click the Radzen installer to run it.
 
 ## Install on macOS
-1. Download the [latest Radzen version for macOS](https://www.radzen.com/blazor-studio/download/#macOS).
+1. Download the [latest Radzen Blazor Studio version for macOS](https://www.radzen.com/blazor-studio/download/#macOS).
 1. Double click the Radzen DMG to mount it.
 1. Drag and drop the Radzen icon to __Applications__.
 
 ## Install on Linux
-1. Download the [latest Radzen version for Linux](https://www.radzen.com/blazor-studio/download/#linux). Radzen is distributed in [AppImage](https://appimage.org) format.
+1. Download the [latest Radzen Blazor Studio version for Linux](https://www.radzen.com/blazor-studio/download/#linux). Radzen Blazor Studio is distributed in [AppImage](https://appimage.org) format.
 1. Make the file executable and run it.
 
 ## Update
