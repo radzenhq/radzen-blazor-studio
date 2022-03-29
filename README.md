@@ -31,7 +31,7 @@ and ask you to restart in order to apply the update.
 
 Radzen Blazor Studio is currently in preview mode. This means that:
 
-- It is not what the release version would look like in terms of UI and features. The list of the currently supported features and upcoming ones is available [here](https://www.radzen.com/roadmap/).
+- It is not what the release version would look like in terms of UI and features. The list of the currently supported features and upcoming ones is available [here](https://radzen.com/blazor-studio/documentation/roadmap/).
 - You may hit issues. In such cases we would appreciate you reporting them in our [github issues portal](https://github.com/radzenhq/radzen-blazor-studio/issues).
 - Always use some source of version control (git, TFS, svn et. al.) to prevent information loss.
 
