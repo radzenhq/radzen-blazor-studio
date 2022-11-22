@@ -27,14 +27,6 @@ Radzen Blazor Studio download is available for [Windows](https://www.radzen.com/
 Radzen Blazor Studio automatically checks for updates on startup. If a new version is available Radzen Blazor Studio will download it
 and ask you to restart in order to apply the update.
 
-## Preview
-
-Radzen Blazor Studio is currently in preview mode. This means that:
-
-- It is not what the release version would look like in terms of UI and features. The list of the currently supported features and upcoming ones is available [here](https://radzen.com/blazor-studio/documentation/roadmap/).
-- You may hit issues. In such cases we would appreciate you reporting them in our [github issues portal](https://github.com/radzenhq/radzen-blazor-studio/issues).
-- Always use some source of version control (git, TFS, svn et. al.) to prevent information loss.
-
 ## Get help
 
 If you need help send us an email to <a href="mailto:info@radzen.com">info@radzen.com</a> or start a new thread in our [forum](https://forum.radzen.com/c/radzen-blazor-studio).
